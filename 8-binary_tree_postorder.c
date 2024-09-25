@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * bianry_tree_postorder - apply the `func` to the BT
+ * binary_tree_postorder - apply the `func` to the BT
  * @tree: the root of the binary tree
  * @func: the function to be applied to the BT
  * Return: nothing just inplemment the function
