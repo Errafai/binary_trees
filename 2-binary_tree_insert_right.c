@@ -8,7 +8,8 @@
  * Return: the right new node or NULL if parent is NULL
  */
 
-binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value){
+binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)
+{
 
 	binary_tree_t *right;
 	binary_tree_t *temp;
